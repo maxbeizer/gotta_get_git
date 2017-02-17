@@ -2,4 +2,4 @@
 
 This is my first Git Add
 
-Git is Awesome!
+Git & GitHub is Awesome!
